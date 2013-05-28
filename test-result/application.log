@@ -1,0 +1,5 @@
+28 May 2013 18:58:15,324 INFO  ~ Starting /Users/nnc/helloWorld
+28 May 2013 18:58:15,812 WARN  ~ You're running Play! in DEV mode
+28 May 2013 18:58:15,924 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...
+28 May 2013 18:58:17,880 INFO  ~ Connected to jdbc:h2:mem:play;MODE=MYSQL;LOCK_MODE=0
+28 May 2013 18:58:17,915 INFO  ~ Application 'Hello world' is now started !
